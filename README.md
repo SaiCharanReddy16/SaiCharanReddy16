@@ -1,14 +1,14 @@
 # 💫 About Me:
-• Results-driven Java Full Stack Engineer with ~5 years of experience designing and building scalable, high-performance microservices using Java (8/11/17), Spring Boot, and reactive frameworks in enterprise environments.
-• Proven expertise in modernizing legacy systems into cloud-native architectures, improving performance by up to 50% through optimized APIs, event-driven design, and efficient data handling.
-• Strong hands-on experience in developing RESTful APIs, distributed systems, and real-time streaming solutions using Kafka, ensuring high availability and fault tolerance.
-• Proficient in frontend development using Angular and React, building responsive, user-centric applications with clean component architecture and seamless API integration.
-• Skilled in working with relational and NoSQL databases including PostgreSQL, Oracle, MongoDB, and Cassandra, optimizing queries and data models for large-scale applications.
-• Experienced in implementing secure authentication and authorization using OAuth2, JWT, and enterprise-grade security best practices.
-• Strong background in cloud-native development on AWS, leveraging EC2, S3, Lambda, and container orchestration using Docker and Kubernetes for scalable deployments.
-• Hands-on experience with CI/CD pipelines and DevOps practices using Jenkins, SonarQube, and Git, achieving high code quality and automated deployments with 95%+ test coverage.
-• Adept at event-driven architecture and microservices communication, enabling loosely coupled and highly maintainable systems in Agile environments.
-• Passionate about leveraging AI and emerging technologies to improve developer productivity and system intelligence, with growing experience in AI-driven integrations and automation.
+* Results-driven Java Full Stack Engineer with ~5 years of experience designing and building scalable, high-performance microservices using Java (8/11/17), Spring Boot, and reactive frameworks in enterprise environments.
+* Proven expertise in modernizing legacy systems into cloud-native architectures, improving performance by up to 50% through optimized APIs, event-driven design, and efficient data handling.
+* Strong hands-on experience in developing RESTful APIs, distributed systems, and real-time streaming solutions using Kafka, ensuring high availability and fault tolerance.
+* Proficient in frontend development using Angular and React, building responsive, user-centric applications with clean component architecture and seamless API integration.
+* Skilled in working with relational and NoSQL databases including PostgreSQL, Oracle, MongoDB, and Cassandra, optimizing queries and data models for large-scale applications.
+* Experienced in implementing secure authentication and authorization using OAuth2, JWT, and enterprise-grade security best practices.
+* Strong background in cloud-native development on AWS, leveraging EC2, S3, Lambda, and container orchestration using Docker and Kubernetes for scalable deployments.
+* Hands-on experience with CI/CD pipelines and DevOps practices using Jenkins, SonarQube, and Git, achieving high code quality and automated deployments with 95%+ test coverage.
+* Adept at event-driven architecture and microservices communication, enabling loosely coupled and highly maintainable systems in Agile environments.
+* Passionate about leveraging AI and emerging technologies to improve developer productivity and system intelligence, with growing experience in AI-driven integrations and automation.
 
 
 ## 🌐 Socials:
